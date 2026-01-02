@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Fortnite Page</title>
+</head>
+<body>
+  <h1>Fortnite Player Info</h1>
+  <p>This site will show player names or screenshots.</p>
+  <img src="Screenshot_20260102_235602_Chrome.jpg" alt="Screenshot" width="400">
+</body>
+</html>
